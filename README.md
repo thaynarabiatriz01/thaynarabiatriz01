@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Olá, sou Thaynara Biatriz!<br><br>🌎Sou de Recife, Brasil.<br><br>👩‍🎓 Sou formada em Técnico em Redes de Computadores.<br>🎓Atualmente Graduando Licenciatura em Computação.<br>☁️Aspirante a Engenheira de Cloud Computing, aprendendo e crescendo a cada dia.<br>📚 Meu foco é no mundo de Cloud Computing , DevOps , Python e Banco de Dados.<br>⚡ Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.</p>
+<p align="left">Olá, sou Thaynara Biatriz!<br><br>🌎Sou de Recife, Brasil.<br><br>👩‍🎓 Sou formada como Técnico em Redes de Computadores.<br>🎓Atualmente Graduando Licenciatura em Computação.<br>☁️Aspirante a Engenheira de Cloud Computing, aprendendo e crescendo a cada dia.<br>📚 Meu foco é no mundo de Cloud Computing , DevOps , Python e Banco de Dados.<br>⚡ Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.</p>
 
 ###
 
